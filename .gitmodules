@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PieGlyph"]
 	path = PieGlyph
 	url = https://github.com/rishvish/pieglyph
-	shallow = true
-	registered = true
