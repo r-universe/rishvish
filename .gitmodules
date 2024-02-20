@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DImodelsVis"]
+	path = DImodelsVis
+	url = https://github.com/rishvish/dimodelsvis
 [submodule "PieGlyph"]
 	path = PieGlyph
 	url = https://github.com/rishvish/pieglyph
